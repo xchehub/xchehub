@@ -1,27 +1,6 @@
 <h1 align="center">👋 Hello World! 👋</h1>
 <h3 align="center">[Blockchain && Android && Cloud] Developer</h3>
 
-```sh
-           __
-.-.__      \ .-.  ___  __
-|_|  '--.-.-(   \/\;;\_\.-._______.-.
-(-)___     \ \ .-\ \;;\(   \       \ \
- Y    '---._\_((Q)) \;;\\ .-\     __(_)
- I           __'-' / .--.((Q))---'    \,
- I     ___.-:    \|  |   \'-'_          \
- A  .-'      \ .-.\   \   \ \ '--.__     '\
- |  |____.----((Q))\   \__|--\_      \     '
-    ( )        '-'  \_  :  \-' '--.___\
-     Y                \  \  \       \(_)
-     I                 \  \  \         \,
-     I                  \  \  \          \
-     A                   \  \  \          '\
-     |                    \  \__|           '
-                           \_:.  \
-                             \ \  \
-                              \ \  \
-                               \_\_|
-```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xchehub&label=Profile%20views&color=0e75b6&style=flat" alt="xchehub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xchehub" alt="xchehub" /></a> </p>
