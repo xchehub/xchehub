@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! 👋</h1>
-<h3 align="center"> ABCD {Blockchain && Android && Cloud && Data ETL} Developer</h3>
+<h3 align="center"> ABCD {Android && Blockchain && Cloud && Data ETL} Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xchehub&label=Profile%20views&color=0e75b6&style=flat" alt="xchehub" /> </p>
 
