@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/xche1" target="blank"><img src="https://img.shields.io/twitter/follow/xche1?logo=twitter&style=for-the-badge" alt="xche1" /></a> </p>
 
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xche1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xche1" height="30" width="40" /></a>
